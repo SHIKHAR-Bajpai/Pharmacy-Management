@@ -7,4 +7,4 @@ So as to move to homepage <br>
 
 First Project ever made using Python and Django (2021) <br>
 
-It is some what close to Netmeds clone (not actually but the first try) 
+It is somewhat close to Netmeds clone (not actually but the first try) 
