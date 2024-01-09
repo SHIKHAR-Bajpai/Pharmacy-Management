@@ -1,3 +1,5 @@
+<h3> <i>Online Pharmacy Store </i></h3> <br>
+
 Virtual Environment: venv <br>
 From root/pharmacy run: py manage.py runserver <br>
 And follow the link http://127.0.0.1:8000/  <br>
