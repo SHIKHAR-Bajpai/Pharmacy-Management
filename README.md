@@ -10,4 +10,4 @@ So as to move to homepage <br>
 My First Project ever made using Python and Django<br>
 
 It is somewhat close to Netmeds clone (not actually but the first try) <br>
-Frontend/UI: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://shikhar-bajpai.github.io/Pharmacy/">Here</a>
+Frontend/UI: &nbsp;&nbsp;<a href="https://shikhar-bajpai.github.io/Pharmacy/">Here</a>
