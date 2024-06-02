@@ -7,6 +7,6 @@ Type store after port number 8000 like: http://127.0.0.1:8000/store/  <br>
 So as to move to homepage <br>
 
 
-First Project ever made using Python and Django (2021) <br>
+My First Project ever made using Python and Django<br>
 
 It is somewhat close to Netmeds clone (not actually but the first try) 
