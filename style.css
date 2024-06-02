@@ -205,7 +205,6 @@ margin-left: 280px;
 }
 .signupbox1 { 
   width: 50%;
-  background-color: pink;
   text-align: right;
   height: 700px;
 }
@@ -215,7 +214,6 @@ margin-left: 280px;
 }
 .signupbox2 {
   width: 50%;
-  background-color: aqua;
   height: 700px;
 }
 .loginbox p{
