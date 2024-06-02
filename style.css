@@ -92,7 +92,7 @@ a:link {
 
 .bodycontent{
   height: 600px;
-  background-color: red;
+/*   background-color: red; */
   display: flex;
 }
 .content1{
